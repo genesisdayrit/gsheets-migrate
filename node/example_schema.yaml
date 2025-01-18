@@ -1,0 +1,17 @@
+tabs:
+  - name: Users
+    columns:
+      - ID
+      - Name
+      - Email
+      - Role
+      - Created At
+  - name: Orders
+    columns:
+      - Order ID
+      - User ID
+      - Product
+      - Quantity
+      - Total Price
+
+
